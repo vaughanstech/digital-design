@@ -10,6 +10,10 @@
 - Click **OK**
 - The File should now show up in the **Design Sources** section in the **Sources** window
 
+## Simulating Verilog Circuit
+- Go to **RTL Analysis** Menu
+- Open Eleborated Design
+
 ## Gate-Level Modeling
 | Name | Description | Usage |
 |------|-------------|-------|
