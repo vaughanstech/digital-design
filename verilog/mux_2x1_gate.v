@@ -4,7 +4,7 @@
 // Engineer: Michael Vaughan
 // 
 // Create Date: 11/07/2022 10:03:12 PM
-// Design Name: 2x1 Multiplexer (Dataflow)
+// Design Name: 2x1 Multiplexer (Gate)
 // Module Name: mux_2x1_dataflow
 // Project Name: 
 // Target Devices: 
