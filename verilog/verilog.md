@@ -1,5 +1,15 @@
 # Verilog Reference
 
+## Setting Up Verilog File In Vivado
+- In the **Sources** tab click the **plus** sign at the top of the window
+- Select **Add or create design sources** click Next
+- Select **Create File**
+- Choose **Verilog** for the **File Type**
+- Create a name for the project in the **File Name** field
+- Select a good location for the project in the **File Location** field
+- Click **OK**
+- The File should now show up in the **Design Sources** section in the **Sources** window
+
 ## Gate-Level Modeling
 | Name | Description | Usage |
 |------|-------------|-------|
